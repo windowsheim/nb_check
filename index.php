@@ -1,4 +1,5 @@
 <?php
 
 print(rand(1, 5));
-print("hallo");
+print("hello");
+print("World");
